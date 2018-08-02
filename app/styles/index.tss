@@ -1,0 +1,18 @@
+".container" : {
+	backgroundColor: "white"
+}
+"#v" : {
+	width: 500,
+	height: 500
+}
+"#btn" : {
+	bottom: 10
+}
+"#lbl":{
+	top: 10,
+	color:"#000"
+}
+
+"#btn2": {
+	bottom: 60
+}

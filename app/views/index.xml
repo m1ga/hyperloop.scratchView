@@ -1,0 +1,11 @@
+<Alloy>
+	<Window class="container">
+		<View width="500" height="500">
+			<ImageView image="/images/luca-bravo-112050-unsplash.jpg"/>
+			<View id="v"/>
+		</View>
+		<Label id="lbl" text="0"/>
+		<Button id="btn" title="reveal"/>
+		<Button id="btn2" title="restart"/>
+	</Window>
+</Alloy>
