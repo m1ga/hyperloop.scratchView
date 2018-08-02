@@ -1,7 +1,5 @@
-var ScratchView = require("com.clock.scratch.ScratchView");
-var LayoutParams = require('android.widget.FrameLayout.LayoutParams');
-var Gravity = require('android.view.Gravity');
-var sv = new ScratchView(Ti.Android.currentActivity, "#FF6600");
+const ScratchView = require("com.clock.scratch.ScratchView");
+const sv = new ScratchView(Ti.Android.currentActivity, "#FF6600");
 var clbPer = null;
 var clbCompleted = null;
 
